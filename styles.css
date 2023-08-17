@@ -36,7 +36,7 @@ Quote text
 }
 
 .header-container div {
-    background-color: #1F2937;
+    background: #1F2937;
     height: 60px;
     flex: 1 1 auto;
     color: #F9FAF8;
