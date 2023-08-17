@@ -36,9 +36,15 @@ Quote text
 }
 
 .header-container div {
-    background: #1F2937;
-    height: 60px;
+    height: 100px;
+    width: 350px;
     flex: 1 1 auto;
-    color: #F9FAF8;
     font-weight: 800 /* extra-bold */;
+}
+
+.header-container .link-1 {
+    flex-shrink: 0;
+}
+
+.header-container .link-3 {
 }
