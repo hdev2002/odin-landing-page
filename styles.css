@@ -55,3 +55,19 @@ Quote text
 }
 
 /* HERO */
+
+.hero-container {
+    display: flex;
+}
+
+.hero-container div {
+    height: 800px;
+    width: 350px;
+    flex: 1 1 auto;
+}
+
+.hero-main {
+    color: #F9FAF8;
+    size: 48px;
+    font-weight: 800px;
+}
